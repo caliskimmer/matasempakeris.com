@@ -1,0 +1,36 @@
+Sprint 1: Things to do
+
+-finish implementing slideshow [COMPLETED]
+	-slide number indicator on the bottom [COMPLETED]
+	-arrow functionality [COMPLETED]
+	-slideshow "pause" [COMPLETED]
+-convert head title to home link [COMPLETED]
+-Tab switch animation [COMPLETED]
+-Footer problem [COMPLETED]
+-Fix slideshow on page change [COMPLETED]
+-finish implementing other tab designs [COMPLETED]
+-native js implementation on projects.html (and possibly leftovers...) [COMPLETED]
+-insert page content/fix random bugs (high priority: picture bar on projects page) [COMPLETED]
+-implement box container content [COMPLETED]
+-test and check cross-browser implementation (no need for IE 7- though) [COMPLETED]
+
+Content:
+-Home Page Design
+	+Slideshow w/ project content
+	+Boxes on bottom with summary of pages (linkable)
+	+Footer
+
+-Resume
+	+link to Resume
+
+-Intro
+	+Picture
+	+Introduction
+	+Animation for JS enabled, static page for non-JS
+
+-Projects
+	+Pictures/Videos with summary description below
+
+Sprint 2: Things to do
+-PHP backend CMS?
+-add support for non-javascript browsers

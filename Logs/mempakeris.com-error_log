@@ -1,0 +1,38 @@
+[Tue Mar 25 21:13:23 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/favicon.ico
+[Fri Apr 04 01:28:19 2014] [error] [client 127.0.0.1] (13)Permission denied: file permissions deny server access: /Users/matas/Sites/mempakeris.com/res/main.jpg, referer: http://mempakeris.com/
+[Fri Apr 04 01:28:19 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:28:30 2014] [error] [client 127.0.0.1] (13)Permission denied: file permissions deny server access: /Users/matas/Sites/mempakeris.com/res/main.jpg, referer: http://mempakeris.com/
+[Fri Apr 04 01:28:30 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:29:10 2014] [error] [client 127.0.0.1] (13)Permission denied: file permissions deny server access: /Users/matas/Sites/mempakeris.com/res/main.jpg, referer: http://mempakeris.com/
+[Fri Apr 04 01:29:10 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:29:40 2014] [error] [client 127.0.0.1] (13)Permission denied: file permissions deny server access: /Users/matas/Sites/mempakeris.com/res/main.jpg, referer: http://mempakeris.com/
+[Fri Apr 04 01:29:40 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:32:40 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/mempakeris.com, referer: http://mempakeris.com/
+[Fri Apr 04 01:32:40 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:32:47 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/mempakeris.com, referer: http://mempakeris.com/
+[Fri Apr 04 01:32:47 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:33:02 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/mempakeris.com, referer: http://mempakeris.com/
+[Fri Apr 04 01:33:02 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:33:09 2014] [error] [client 127.0.0.1] (13)Permission denied: file permissions deny server access: /Users/matas/Sites/mempakeris.com/res/main.jpg, referer: http://mempakeris.com/
+[Fri Apr 04 01:33:09 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:33:35 2014] [error] [client 127.0.0.1] (13)Permission denied: file permissions deny server access: /Users/matas/Sites/mempakeris.com/res/main.jpg, referer: http://mempakeris.com/
+[Fri Apr 04 01:33:35 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:33:36 2014] [error] [client 127.0.0.1] (13)Permission denied: file permissions deny server access: /Users/matas/Sites/mempakeris.com/res/main.jpg, referer: http://mempakeris.com/
+[Fri Apr 04 01:33:36 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:33:40 2014] [error] [client 127.0.0.1] (13)Permission denied: file permissions deny server access: /Users/matas/Sites/mempakeris.com/res/main.jpg, referer: http://mempakeris.com/
+[Fri Apr 04 01:33:40 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:34:30 2014] [error] [client 127.0.0.1] (13)Permission denied: file permissions deny server access: /Users/matas/Sites/mempakeris.com/res/main.jpg, referer: http://mempakeris.com/
+[Fri Apr 04 01:34:30 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:34:31 2014] [error] [client 127.0.0.1] (13)Permission denied: file permissions deny server access: /Users/matas/Sites/mempakeris.com/res/main.jpg, referer: http://mempakeris.com/
+[Fri Apr 04 01:34:31 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:36:40 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:37:13 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:37:30 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:37:38 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:38:00 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:38:08 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:38:19 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:38:26 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:38:45 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:38:55 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
+[Fri Apr 04 01:39:13 2014] [error] [client 127.0.0.1] File does not exist: /Users/matas/Sites/mempakeris.com/fonts/Steinerlight.tff, referer: http://mempakeris.com/
