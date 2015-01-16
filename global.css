@@ -16,6 +16,7 @@ section,header,footer,nav
 
 body
 {
+	overflow:scroll;
 	background:url('res/main.jpg') no-repeat center center fixed;
 	background-color:black;
 	-webkit-background-size: cover;
