@@ -37,6 +37,15 @@ a
 	outline:none;
 }
 
+#official-resume
+{
+	position:relative;
+	display:block;
+	width:750px;
+	height:950px;
+	margin:auto;
+}
+
 #content-wrapper
 {
 	position:relative;

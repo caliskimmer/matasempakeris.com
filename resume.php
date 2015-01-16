@@ -23,9 +23,11 @@
 			<section id="content-resume"> <!-- may add a class for similar contents -->
 				<h1 class="container-title" id="resume-title">Resume</h1>
 				<br/>
-				<img src="res/resume.png"/>
+				
+				<iframe id="official-resume" src="MatasAEmpakerisOfficialResume.pdf"> </iframe>
+					
 				<br/>
-				<a href="https://www.dropbox.com/s/2zs3yzlnz6rkv6y/Resume-Official-Public.docx?dl=1">Click here to download my resume</a>
+				<a href="https://www.dropbox.com/s/kk8jw8ece7mefxq/MatasAEmpakerisOfficialResume.pdf?dl=1">Click here to download my resume</a>
 			</section>
 		</section>
 	</div>
